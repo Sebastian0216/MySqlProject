@@ -1,4 +1,4 @@
 <?php  
 
-echo "Hola mundo";
+echo "Hola mundo prueba desde el local";
  ?>
